@@ -6,6 +6,7 @@
   <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
 </head>
 <body>
+
 <p id="p1">SCORE:</p>
 <p id="score"></p>
 <p id="p2">HIGHSCORE:</p>
@@ -163,3 +164,9 @@ $(document).ready(function(){
 </script>
 </body>
 </html>
+
+
+  <img src="https://user-images.githubusercontent.com/111486111/234471919-d4fba875-eec8-4f0a-9f47-3fb6c9f3d2ab.jpg" width="270">
+    <img src="https://user-images.githubusercontent.com/111486111/234471934-604559b0-3594-4eef-a784-d34d513abb91.jpg" height="210">
+
+  <p>^ It says a score of 20 if you look closely </p>
