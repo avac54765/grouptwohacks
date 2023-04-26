@@ -5,7 +5,6 @@
     <body>
 <div class="index-header">
     <h1>Extra Seed</h1>
-    <p>Add an element of bootstrap to this page (ex. carousel) OR Add an element using Tailwind</p>
     <p> I ADDED A COLLAPSABLE BUTTON BELOW </p>
 </div>
 
